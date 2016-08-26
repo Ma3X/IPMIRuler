@@ -1,2 +1,2 @@
-# IPMIRuler
-App for management server-motherboard over IPMI interface
+# R-MGMT-Ruler
+App for Remote Management server-motherboard over IPMI or iLO interface
